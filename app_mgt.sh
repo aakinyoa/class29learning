@@ -18,3 +18,4 @@
 #echo
 #echo "Learning git for distributed control versioning"
 #echo
+#revised edition
