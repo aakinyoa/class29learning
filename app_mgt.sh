@@ -19,3 +19,4 @@
 #echo "Learning git for distributed control versioning"
 #echo
 #revised edition
+#trying to learn how git rebase work properly
